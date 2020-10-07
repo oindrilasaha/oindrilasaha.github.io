@@ -12,6 +12,6 @@ derived through this analyses. We discover that aggregate change in opinion is b
 explained by the differential influx of polarized population rather than the change in 
 individual’s stance or opinion.'
 date: 2019-01-08
-venue: 'International Conference Social Informatics, (SocInfo) 2019'
+venue: 'International Conference Social Informatics (SocInfo)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-34971-4_20'
 ---

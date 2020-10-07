@@ -18,6 +18,6 @@ comparable accuracy. We use RNNPool with the standard S3FD architecture
 to construct a face detection method that achieves state-of-the-art MAP for tiny
 Cortex-M4 class devices with under 256 KB of RAM.'
 date: 2020-09-30
-venue: 'Neural Information Processing Systems (NeurIPS 2020)'
+venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://arxiv.org/pdf/2002.11921.pdf'
 ---

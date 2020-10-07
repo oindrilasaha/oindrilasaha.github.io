@@ -25,6 +25,6 @@ on 400 real healthy patient images obtained from a hospital. Results are encoura
 reduce the cognitive burden of segmenting and karyotyping
 chromosomes.'
 date: 2017-06-08
-venue: 'CVMI Workshop @ Computer Vision and Pattern Recognition, (CVPR), 2017'
+venue: 'CVMI Workshop @ Computer Vision and Pattern Recognition, (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content_cvpr_2017_workshops/w8/papers/Sharma_Crowdsourcing_for_Chromosome_CVPR_2017_paper.pdf'
 ---
