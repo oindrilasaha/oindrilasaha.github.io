@@ -171,7 +171,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  miscellaneous:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -205,10 +205,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _miscellaneous
   - scope:
       path: ""
-      type: teaching
+      type: miscellaneous
     values:
       layout: single
       author_profile: true
