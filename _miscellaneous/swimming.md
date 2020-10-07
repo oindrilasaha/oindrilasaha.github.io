@@ -2,7 +2,6 @@
 title: "Swimming"
 collection: miscellaneous
 permalink: /miscellaneous/swimming
-date: 2016-01-01
 location: "Kharagpur, India"
 ---
 I enjoy swimming as a hobby and a competitive sport. I represented IIT Kharagpur in Inter IIT Aquatics competitions for 4 years (2015-2019)
