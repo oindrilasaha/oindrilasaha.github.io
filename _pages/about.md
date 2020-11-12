@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Research Fellow at Microsoft Research, working with [Dr. Prateek Jain](https://www.prateekjain.org/) and [Dr. Harsha Simhadri](http://harsha-simhadri.org/) on the [EdgeML](https://github.com/microsoft/EdgeML/) project. I work on developing tiny and accurate Computer Vision models which can be deployed on severely resource-constrained devices.
+I'm a Research Fellow at Microsoft Research, working with [Dr. Prateek Jain](https://www.prateekjain.org/), [Dr. Harsha Simhadri](http://harsha-simhadri.org/) and [Dr. Manik Varma](http://manikvarma.org/) on the [EdgeML](https://github.com/microsoft/EdgeML/) project. I work on developing tiny and accurate Computer Vision models which can be deployed on severely resource-constrained devices.
 
 Previously, I did my Bachelors and Masters in Tech. in Electronics and Electrical Communication Engineering with a minor in Computer Science and Engineering from Indian Institute of Technology Kharagpur.
 
