@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Oindrila Saha"
   avatar           : "jprofile.png"
-  bio              : "Research Fellow"
-  location         : "Amherst, MA"
-  employer         : "Microsoft Research India"
+  bio              : "CS PhD Student"
+  location         : 
+  employer         : "UMass Amherst"
   googlescholar    :
-  email            : "t-oisaha@microsoft.com"
+  email            : "osaha@umass.edu"
   uri              :
   bitbucket        :
   codepen          :
