@@ -1,7 +1,7 @@
 ---
 title: "Do Events Change Opinions on Social Media? Studying the 2016 US Presidential Debates"
 collection: publications
-<!-- permalink: /publication/socialmedia -->
+permalink: /publication/socialmedia
 <!-- excerpt: 'Social media is the primary platform for discussions and reactions during various
 social events. Studies in this space focus on the aggregate opinion and sentiment analysis
 but fail to analyze the micro-dynamics. In this work, we present a case study of the 2016
