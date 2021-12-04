@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student at UMass Amherst working under the supervision of [Prof. Subhransu Maji](https://people.cs.umass.edu/~smaji/) on data efficient learning algorithms.
+I am a first year CS PhD student working at the UMass Amherst Computer Vision Lab under the supervision of [Prof. Subhransu Maji](https://people.cs.umass.edu/~smaji/) on data efficient learning algorithms.
 
 Previously, I was a Research Fellow at Microsoft Research, working with [Dr. Prateek Jain](https://www.prateekjain.org/), [Dr. Harsha Simhadri](http://harsha-simhadri.org/) and [Dr. Manik Varma](http://manikvarma.org/) on the [EdgeML](https://github.com/microsoft/EdgeML/) project. I worked on developing tiny and accurate Computer Vision models which can be deployed on severely resource-constrained devices.
 
