@@ -1,7 +1,7 @@
 ---
 title: "RNNPool: Efficient Non-linear Pooling for RAM Constrained Inference"
 collection: publications
-permalink: /publication/rnnpool
+permalink: 
 excerpt: 
 date: 2020-09-30
 venue: 'Neural Information Processing Systems (NeurIPS)'
