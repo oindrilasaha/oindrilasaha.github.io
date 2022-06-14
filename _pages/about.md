@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** NEW ** GANorCON at CVPR'22 - Visit [https://people.cs.umass.edu/~osaha/ganorcon/]
+** NEW ** GANorCON at CVPR'22 - [Visit](https://people.cs.umass.edu/~osaha/ganorcon/)
 
 About Me
 ==================
