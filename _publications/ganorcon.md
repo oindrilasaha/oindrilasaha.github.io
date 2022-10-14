@@ -9,4 +9,5 @@ venue: Computer Vision and Pattern Recognition Conference (CVPR)
 paperurl: 'https://arxiv.org/abs/2112.00854'
 pageurl: 'https://people.cs.umass.edu/~osaha/ganorcon/'
 codeurl: 'https://github.com/oindrilasaha/GANorCON'
+videourl: 'https://www.youtube.com/watch?v=nP7te2nXJaw'
 ---
