@@ -3,7 +3,6 @@ title: "Teaching Assistant"
 collection: miscellaneous
 permalink: /miscellaneous/teaching
 venue: "Electronics and Electrical Communication Engineering, Indian Institute of Technology Kharagpur"
-date: 2018-01-01
 location: "Kharagpur, India"
 ---
 * Digital Signal Processing  -  *Instructor* - [Prof. Goutam Saha](http://www.iitkgp.ac.in/department/EC/faculty/ec-gsaha)
