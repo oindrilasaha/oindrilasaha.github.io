@@ -7,4 +7,5 @@ authors: <ins>Oindrila Saha</ins> , Aditya Kusupati, Harsha Vardhan Simhadri, Ma
 date: 2020-09-30
 venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://arxiv.org/pdf/2002.11921.pdf'
+codeurl: 'https://github.com/microsoft/EdgeML/tree/master/examples/pytorch/vision'
 ---
