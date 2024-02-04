@@ -16,4 +16,4 @@ Previously, I was a Research Fellow at Microsoft Research, working with [Dr. Pra
 
 Research Interests
 ==================
-Self, Semi and Unsupervised learning, Multimodal Learning, Generative modelling
+Self, Semi and Unsupervised learning, Multimodal Learning, Generative modeling
