@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="display: flex; align-items: center; gap: 1rem;">
+<div class="{{ include.type | default: "list" }}__item" style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
   {% if post.image %}
   <div class="archive__item-teaser" style="flex-shrink: 0;">
       <img 
