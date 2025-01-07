@@ -13,17 +13,16 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item" style="display: flex; align-items: flex-start; gap: 1rem;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
-    {% if post.image %}
-      <div class="archive__item-teaser">
-        <img 
-          src="{{ post.image | prepend: base_path }}" 
-          alt="{{ post.title }}" 
-          style="max-width: 150px; height: auto; object-fit: contain;"
-        >
-      </div>
-    {% endif %}
+  {% if post.image %}
+    <div class="archive__item-teaser">
+      <img 
+        src="{{ post.image | prepend: base_path }}" 
+        alt="{{ post.title }}" 
+        style="max-width: 150px; height: auto; object-fit: contain;"
+      >
+    </div>
+  {% endif %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="flex-grow: 1;">
     
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
