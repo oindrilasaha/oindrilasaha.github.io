@@ -14,11 +14,11 @@
 
 <div class="{{ include.type | default: "list" }}__item" style="display: flex; align-items: center; gap: 1rem;">
   {% if post.image %}
-    <div class="archive__item-teaser">
+  <div class="archive__item-teaser" style="flex-shrink: 0;">
       <img 
         src="{{ post.image | prepend: base_path }}" 
         alt="{{ post.title }}" 
-        style="width: 250px; height: auto; object-fit: contain;"
+        style="width: 250px; height: auto;"
       >
     </div>
   {% endif %}
