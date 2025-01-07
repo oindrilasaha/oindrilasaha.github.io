@@ -10,4 +10,5 @@ paperurl: 'https://arxiv.org/abs/2204.05393'
 pageurl: 'https://people.cs.umass.edu/~osaha/coarsesup/'
 codeurl: 'https://github.com/oindrilasaha/CoarseSup'
 videourl: 'https://www.youtube.com/watch?v=Ztxu2nq054Y'
+image: '/images/coarsesup.png'
 ---

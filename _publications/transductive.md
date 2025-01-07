@@ -7,4 +7,5 @@ authors: <ins>Oindrila Saha</ins>, Logan Lawrence, Grant Van Horn, and Subhransu
 date: 2025-07-03
 venue: Submitted
 paperurl: 'https://oindrilasaha.github.io/files/CVPR_2025_Transductive_CLIP-arxiv.pdf'
+image: '/images/transduct.png'
 ---

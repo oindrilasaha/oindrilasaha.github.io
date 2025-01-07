@@ -8,4 +8,5 @@ date: 2024-07-03
 venue: Neural Information Processing Systems (NeurIPS)
 paperurl: 'https://arxiv.org/abs/2406.16273v1'
 codeurl: 'https://github.com/YouDream3D/YouDream/'
+image: '/images/youdream.png'
 ---

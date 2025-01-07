@@ -9,4 +9,5 @@ venue: Computer Vision and Pattern Recognition Conference (CVPR)
 paperurl: 'https://arxiv.org/abs/2401.02460'
 codeurl: 'https://github.com/cvl-umass/AdaptCLIPZS/'
 videourl: 'https://www.youtube.com/watch?v=H-I0SFuRGxU'
+image: '/images/vlm.png'
 ---
