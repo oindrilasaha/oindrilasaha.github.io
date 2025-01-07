@@ -17,7 +17,11 @@
 
     {% if post.image %}
       <div class="archive__item-teaser">
-        <img src="{{ post.image | prepend: base_path }}" alt="{{ post.title }}">
+        <img 
+          src="{{ post.image | prepend: base_path }}" 
+          alt="{{ post.title }}" 
+          style="max-width: 150px; height: auto; object-fit: contain;"
+        >
       </div>
     {% endif %}
     
