@@ -19,4 +19,4 @@ Research Interests
 Self, Semi and Unsupervised learning, Multimodal Learning, Generative modeling
 
 
-<span style="color: red;">I am seeking full-time industry positions. Feel free to reach out if you believe my experience aligns with your needs!</span>
+<span style="color: red;">I am seeking full-time industry positions. Feel free to reach out if you think I am a good fit!</span>
