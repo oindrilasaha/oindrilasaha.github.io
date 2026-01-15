@@ -5,7 +5,7 @@ permalink:
 excerpt: 
 authors: <ins>Oindrila Saha</ins>, Logan Lawrence, Grant Van Horn, and Subhransu Maji
 date: 2025-07-03
-venue: Submitted
+venue: International Conference of Computer Vision (ICCV)
 paperurl: 'https://oindrilasaha.github.io/files/CVPR_2025_Transductive_CLIP-arxiv.pdf'
 image: '/images/transduct.png'
 ---

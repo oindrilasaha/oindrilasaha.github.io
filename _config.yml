@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oindrila's Webpage"
 title_separator          : "-"
 name                     : &name "Oindrila Saha"
-description              : &description "Research Fellow @ Microsoft Research"
+description              : &description "Research Scientist @ Adobe Research"
 url                      : https://oindrilasaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oindrilasaha/oindrilasaha.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Oindrila Saha"
   avatar           : "profile_2022.jpeg"
-  bio              : "PhD Student"
+  bio              : "Research Scientist"
   location         : 
-  employer         : "UMass Amherst"
+  employer         : "Adobe Research"
   googlescholar    : https://scholar.google.com/citations?user=kyD0qbIAAAAJ&hl=en
-  email            : "osaha@umass.edu"
+  email            : "oindrila13saha@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
