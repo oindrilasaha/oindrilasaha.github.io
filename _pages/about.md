@@ -14,5 +14,5 @@ I am a Research Scientist at [Adobe Research](https://research.adobe.com/). Prev
 
 I am interested in generating visual content with control and consistency. I am also interested in exploring effective methods for controlling generation. 
 
-**Internships and Academic Collaborations.** If you are interested in these research directions and are interested in interning at Adobe Research or collaborating with me, feel free to reach out!
+**Internships and Academic Collaborations.** If you are interested in these research directions and are interested in an internship or collaboration with me, feel free to reach out!
 
